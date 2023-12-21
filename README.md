@@ -1,10 +1,21 @@
-# HRI Video Survey on Preferred Robot Responses
+# When do People Want an Explanation from a Robot? (HRI'24)
 This repository contains the data for the paper "When Do People Want an Explanation from a Robot?".
 The anonymous questionnaire responses can be found in the [data](https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses/tree/main/data) folder. The analysis code is provided as [juypter notebook](https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses/blob/main/analysis.ipynb).
 Lastly, the questionnaire used to gather the data can be accesed as [PDF](https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses/blob/main/survey.pdf).
 
 # Reference
 If you want to refer to or use the data, findings, videos, etc. cite: 
+
+@inproceedings{wachowiak2024when, 
+author = {Wachowiak, Lennart and Fenn, Andrew and Kamran, Haris and Coles, Andrew and Celiktutan, Oya and Canal, Gerard}, 
+title = {When Do People Want an Explanation from a Robot?}, 
+year = {2024}, 
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3610977.3634990}, 
+booktitle = {Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction},
+numpages = {10}, 
+series = {HRI '24} }
 
 
 # Abstract
