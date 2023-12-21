@@ -1,5 +1,5 @@
 # When do People Want an Explanation from a Robot? (HRI'24)
-This repository contains the data for the paper "When Do People Want an Explanation from a Robot?".
+This repository contains the data for the paper "When Do People Want an Explanation from a Robot?", which you can read [here](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/241218060/when_do_people_want_an_explanation.pdf).
 The anonymous questionnaire responses can be found in the [data](https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses/tree/main/data) folder. The analysis code is provided as [juypter notebook](https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses/blob/main/analysis.ipynb).
 Lastly, the questionnaire used to gather the data can be accesed as [PDF](https://github.com/lwachowiak/HRI-Video-Survey-on-Preferred-Robot-Responses/blob/main/survey.pdf).
 
