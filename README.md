@@ -6,16 +6,23 @@ Lastly, the questionnaire used to gather the data can be accesed as [PDF](https:
 # Reference
 If you want to refer to or use the data, findings, videos, etc. cite: 
 
-@inproceedings{wachowiak2024when, 
-author = {Wachowiak, Lennart and Fenn, Andrew and Kamran, Haris and Coles, Andrew and Celiktutan, Oya and Canal, Gerard}, 
-title = {When Do People Want an Explanation from a Robot?}, 
-year = {2024}, 
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-doi = {10.1145/3610977.3634990}, 
-booktitle = {Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction},
-numpages = {10}, 
-series = {HRI '24} }
+```
+@inproceedings{wachowiak_hri2024,
+  author = {Wachowiak, Lennart and Fenn, Andrew and Kamran, Haris and Coles, Andrew and Celiktutan, Oya and Canal, Gerard},
+  title = {When Do People Want an Explanation from a Robot?},
+  year = {2024},
+  isbn = {9798400703225},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3610977.3634990},
+  booktitle = {Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction},
+  pages = {752–761},
+  numpages = {10},
+  keywords = {error mitigation, explainability, hri, human-agent interaction, user study, user-centered ai, xai},
+  location = {Boulder, CO, USA, },
+  series = {HRI '24}
+}
+```
 
 
 # Abstract
