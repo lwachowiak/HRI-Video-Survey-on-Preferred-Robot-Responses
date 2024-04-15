@@ -48,8 +48,8 @@ You can check out the stimuli used in the questionnaire on YouTube, ordered as i
 * [Suboptimal Path](https://www.youtube.com/watch?v=yGmPGigLlm8&embeds_referring_euri=https%3A%2F%2Fqualtrics.kcl.ac.uk%2F&feature=emb_imp_woyt)
 * [Norm Violation Conversation](https://www.youtube.com/watch?v=63mnM2xQdl0&embeds_referring_euri=https%3A%2F%2Fqualtrics.kcl.ac.uk%2F&feature=emb_imp_woyt)
 * [Norm Violation Distance](https://www.youtube.com/watch?v=4S8JfBRVLag&embeds_referring_euri=https%3A%2F%2Fqualtrics.kcl.ac.uk%2F&feature=emb_imp_woyt)
-* [Unforseen Circumstances Path](https://www.youtube.com/watch?v=LH-xLaESv-4&embeds_referring_euri=https%3A%2F%2Fqualtrics.kcl.ac.uk%2F&feature=emb_imp_woyt)
-* [Unforseen Circumstances Object](https://www.youtube.com/watch?v=Xdr2TJJgP_Y&embeds_referring_euri=https%3A%2F%2Fqualtrics.kcl.ac.uk%2F&feature=emb_imp_woyt)
+* [Unforeseen Circumstances Path](https://www.youtube.com/watch?v=LH-xLaESv-4&embeds_referring_euri=https%3A%2F%2Fqualtrics.kcl.ac.uk%2F&feature=emb_imp_woyt)
+* [Unforeseen Circumstances Object](https://www.youtube.com/watch?v=Xdr2TJJgP_Y&embeds_referring_euri=https%3A%2F%2Fqualtrics.kcl.ac.uk%2F&feature=emb_imp_woyt)
 
 
 
